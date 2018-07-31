@@ -1,0 +1,11 @@
+D:\Learning-Ins\XPBAZAR\bin\Debug\netcoreapp2.0\XPBAZAR.deps.json
+D:\Learning-Ins\XPBAZAR\bin\Debug\netcoreapp2.0\XPBAZAR.runtimeconfig.json
+D:\Learning-Ins\XPBAZAR\bin\Debug\netcoreapp2.0\XPBAZAR.runtimeconfig.dev.json
+D:\Learning-Ins\XPBAZAR\bin\Debug\netcoreapp2.0\XPBAZAR.dll
+D:\Learning-Ins\XPBAZAR\bin\Debug\netcoreapp2.0\XPBAZAR.pdb
+D:\Learning-Ins\XPBAZAR\obj\Debug\netcoreapp2.0\XPBAZAR.csprojResolveAssemblyReference.cache
+D:\Learning-Ins\XPBAZAR\obj\Debug\netcoreapp2.0\XPBAZAR.csproj.CoreCompileInputs.cache
+D:\Learning-Ins\XPBAZAR\obj\Debug\netcoreapp2.0\XPBAZAR.AssemblyInfoInputs.cache
+D:\Learning-Ins\XPBAZAR\obj\Debug\netcoreapp2.0\XPBAZAR.AssemblyInfo.cs
+D:\Learning-Ins\XPBAZAR\obj\Debug\netcoreapp2.0\XPBAZAR.dll
+D:\Learning-Ins\XPBAZAR\obj\Debug\netcoreapp2.0\XPBAZAR.pdb
